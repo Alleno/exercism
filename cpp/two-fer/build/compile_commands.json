@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/two-fer/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -g -std=c++14 -o CMakeFiles/two-fer.dir/two_fer_test.cpp.o -c /Users/allenwang/Exercism/cpp/two-fer/two_fer_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/two-fer/two_fer_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/two-fer/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -g -std=c++14 -o CMakeFiles/two-fer.dir/two_fer.cpp.o -c /Users/allenwang/Exercism/cpp/two-fer/two_fer.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/two-fer/two_fer.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/two-fer/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -g -std=c++14 -o CMakeFiles/two-fer.dir/test/tests-main.cpp.o -c /Users/allenwang/Exercism/cpp/two-fer/test/tests-main.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/two-fer/test/tests-main.cpp"
+}
+]

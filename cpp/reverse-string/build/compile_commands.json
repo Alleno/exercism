@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/reverse-string.dir/reverse_string_test.cpp.o -c /Users/allenwang/Exercism/cpp/reverse-string/reverse_string_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/reverse-string/reverse_string_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/reverse-string.dir/reverse_string.cpp.o -c /Users/allenwang/Exercism/cpp/reverse-string/reverse_string.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/reverse-string/reverse_string.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/reverse-string.dir/test/tests-main.cpp.o -c /Users/allenwang/Exercism/cpp/reverse-string/test/tests-main.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/reverse-string/test/tests-main.cpp"
+}
+]

@@ -1,0 +1,22 @@
+# ninja log v5
+1	96	1596045265990436083	CMakeFiles/grains.dir/grains.cpp.o	1535ca028a92b955
+0	592	1596045266484379849	CMakeFiles/grains.dir/grains_test.cpp.o	90744f0dfea85ed9
+1	6589	1596045272455364358	CMakeFiles/grains.dir/test/tests-main.cpp.o	3cc802a80fd71a65
+6590	6743	1596045272638465923	grains	63d5bd3df2acf63a
+6743	7348	0	CMakeFiles/test_grains	dbff84ada5ee4e71
+3	625	1596045289140812292	CMakeFiles/grains.dir/grains_test.cpp.o	90744f0dfea85ed9
+625	786	1596045289292100472	grains	63d5bd3df2acf63a
+2	93	1596045502718319167	CMakeFiles/grains.dir/grains.cpp.o	1535ca028a92b955
+93	262	1596045502874694547	grains	63d5bd3df2acf63a
+2	85	1596045578514371800	CMakeFiles/grains.dir/grains.cpp.o	1535ca028a92b955
+85	258	1596045578671005520	grains	63d5bd3df2acf63a
+258	522	0	CMakeFiles/test_grains	dbff84ada5ee4e71
+3	115	1596396442122396054	CMakeFiles/grains.dir/grains.cpp.o	1535ca028a92b955
+3	606	1596396442614847755	CMakeFiles/grains.dir/grains_test.cpp.o	90744f0dfea85ed9
+606	794	1596396442794273582	grains	63d5bd3df2acf63a
+794	1103	0	CMakeFiles/test_grains	dbff84ada5ee4e71
+3	593	1596401623704946334	CMakeFiles/grains.dir/grains_test.cpp.o	90744f0dfea85ed9
+593	747	1596401623851719704	grains	63d5bd3df2acf63a
+3	111	1596401668834823866	CMakeFiles/grains.dir/grains.cpp.o	1535ca028a92b955
+111	262	1596401668975529373	grains	63d5bd3df2acf63a
+262	470	0	CMakeFiles/test_grains	dbff84ada5ee4e71

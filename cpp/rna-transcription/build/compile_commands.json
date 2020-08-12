@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/rna-transcription/build",
+  "command": "/usr/bin/clang++  -DBOOST_ALL_NO_LIB -isystem /usr/local/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/rna-transcription.dir/rna_transcription_test.cpp.o -c /Users/allenwang/Exercism/cpp/rna-transcription/rna_transcription_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/rna-transcription/rna_transcription_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/rna-transcription/build",
+  "command": "/usr/bin/clang++  -DBOOST_ALL_NO_LIB -isystem /usr/local/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o -c /Users/allenwang/Exercism/cpp/rna-transcription/rna_transcription.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/rna-transcription/rna_transcription.cpp"
+}
+]

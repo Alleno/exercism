@@ -1,0 +1,6 @@
+# ninja log v5
+0	482	1594014546191982143	CMakeFiles/reverse-string.dir/reverse_string.cpp.o	633220d76f40c7c9
+0	662	1594014546372601807	CMakeFiles/reverse-string.dir/reverse_string_test.cpp.o	d7c73326309f954c
+1	6529	1594014552216404307	CMakeFiles/reverse-string.dir/test/tests-main.cpp.o	56803838c81a9f12
+6530	6696	1594014552399504105	reverse-string	f9b08fef99d3a5cc
+6696	6884	0	CMakeFiles/test_reverse-string	ee4b08e6efcac729

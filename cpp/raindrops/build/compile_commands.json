@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/raindrops/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/raindrops.dir/raindrops_test.cpp.o -c /Users/allenwang/Exercism/cpp/raindrops/raindrops_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/raindrops/raindrops_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/raindrops/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/raindrops.dir/raindrops.cpp.o -c /Users/allenwang/Exercism/cpp/raindrops/raindrops.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/raindrops/raindrops.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/raindrops/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/raindrops.dir/test/tests-main.cpp.o -c /Users/allenwang/Exercism/cpp/raindrops/test/tests-main.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/raindrops/test/tests-main.cpp"
+}
+]

@@ -1,0 +1,26 @@
+# ninja log v5
+0	374	1596059677927576377	CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o	1b401b8488b2edca
+0	1022	1596059678573484128	CMakeFiles/rna-transcription.dir/rna_transcription_test.cpp.o	1e0abda4cd47c524
+1023	1150	1596059678707405903	rna-transcription	908dcfcb6e2af006
+1150	1461	0	CMakeFiles/test_rna-transcription	ce2e2d59ae08949f
+6	1104	1596059714649828573	CMakeFiles/rna-transcription.dir/rna_transcription_test.cpp.o	1e0abda4cd47c524
+1104	1190	1596059714740133557	rna-transcription	908dcfcb6e2af006
+7	404	1596059759471440367	CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o	1b401b8488b2edca
+404	492	1596059759558845825	rna-transcription	908dcfcb6e2af006
+492	1007	0	CMakeFiles/test_rna-transcription	ce2e2d59ae08949f
+6	393	1596059925062695350	CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o	1b401b8488b2edca
+393	480	1596059925147491515	rna-transcription	908dcfcb6e2af006
+480	851	0	CMakeFiles/test_rna-transcription	ce2e2d59ae08949f
+6	391	1596060343247112566	CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o	1b401b8488b2edca
+391	484	1596060343338568678	rna-transcription	908dcfcb6e2af006
+484	846	0	CMakeFiles/test_rna-transcription	ce2e2d59ae08949f
+7	436	1596060366025201227	CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o	1b401b8488b2edca
+6	1115	1596060366699169054	CMakeFiles/rna-transcription.dir/rna_transcription_test.cpp.o	1e0abda4cd47c524
+1115	1246	1596060366834512856	rna-transcription	908dcfcb6e2af006
+1246	1381	0	CMakeFiles/test_rna-transcription	ce2e2d59ae08949f
+6	400	1596060386126167385	CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o	1b401b8488b2edca
+400	488	1596060386213499585	rna-transcription	908dcfcb6e2af006
+488	619	0	CMakeFiles/test_rna-transcription	ce2e2d59ae08949f
+5	404	1596060436110959312	CMakeFiles/rna-transcription.dir/rna_transcription.cpp.o	1b401b8488b2edca
+404	493	1596060436198148879	rna-transcription	908dcfcb6e2af006
+493	814	0	CMakeFiles/test_rna-transcription	ce2e2d59ae08949f

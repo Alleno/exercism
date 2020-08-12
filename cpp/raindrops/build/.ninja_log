@@ -1,0 +1,16 @@
+# ninja log v5
+1	957	1596995568243136635	CMakeFiles/raindrops.dir/raindrops.cpp.o	c414bc4125425406
+0	1184	1596995568474997777	CMakeFiles/raindrops.dir/raindrops_test.cpp.o	c9f14603ced4007d
+1	7291	1596995574560728289	CMakeFiles/raindrops.dir/test/tests-main.cpp.o	83bd490a963a59ca
+7291	7517	1596995574811913367	raindrops	ec107a71c4b81644
+7517	7650	0	CMakeFiles/test_raindrops	79c21ca55d77ede9
+3	643	1596995595138301838	CMakeFiles/raindrops.dir/raindrops_test.cpp.o	c9f14603ced4007d
+643	793	1596995595280201266	raindrops	ec107a71c4b81644
+793	941	0	CMakeFiles/test_raindrops	79c21ca55d77ede9
+4	302	1596995677855531767	CMakeFiles/raindrops.dir/raindrops.cpp.o	c414bc4125425406
+4	651	1596995678204418176	CMakeFiles/raindrops.dir/raindrops_test.cpp.o	c9f14603ced4007d
+651	799	1596995678345019028	raindrops	ec107a71c4b81644
+799	1075	0	CMakeFiles/test_raindrops	79c21ca55d77ede9
+6	1054	1597079126735060774	CMakeFiles/raindrops.dir/raindrops.cpp.o	c414bc4125425406
+1054	1281	1597079126959675661	raindrops	ec107a71c4b81644
+1282	1652	0	CMakeFiles/test_raindrops	79c21ca55d77ede9

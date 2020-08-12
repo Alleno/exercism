@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "difference-of-squares",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "difference-of-squares::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-difference-of-squares-Debug-3c6ffe257304582d120a.json",
+					"name" : "difference-of-squares",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_difference-of-squares::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_difference-of-squares-Debug-1b31784baa860906b5b2.json",
+					"name" : "test_difference-of-squares",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/allenwang/Exercism/cpp/difference-of-squares/build",
+		"source" : "/Users/allenwang/Exercism/cpp/difference-of-squares"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

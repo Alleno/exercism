@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/sieve/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/sieve.dir/sieve_test.cpp.o -c /Users/allenwang/Exercism/cpp/sieve/sieve_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/sieve/sieve_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/sieve/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/sieve.dir/sieve.cpp.o -c /Users/allenwang/Exercism/cpp/sieve/sieve.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/sieve/sieve.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/sieve/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/sieve.dir/test/tests-main.cpp.o -c /Users/allenwang/Exercism/cpp/sieve/test/tests-main.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/sieve/test/tests-main.cpp"
+}
+]

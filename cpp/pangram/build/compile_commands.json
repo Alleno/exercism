@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/pangram/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/pangram.dir/pangram_test.cpp.o -c /Users/allenwang/Exercism/cpp/pangram/pangram_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/pangram/pangram_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/pangram/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/pangram.dir/pangram.cpp.o -c /Users/allenwang/Exercism/cpp/pangram/pangram.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/pangram/pangram.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/pangram/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/pangram.dir/test/tests-main.cpp.o -c /Users/allenwang/Exercism/cpp/pangram/test/tests-main.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/pangram/test/tests-main.cpp"
+}
+]

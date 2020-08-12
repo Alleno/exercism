@@ -1,0 +1,4 @@
+/Users/allenwang/Exercism/cpp/sieve/build/CMakeFiles/rebuild_cache.dir
+/Users/allenwang/Exercism/cpp/sieve/build/CMakeFiles/edit_cache.dir
+/Users/allenwang/Exercism/cpp/sieve/build/CMakeFiles/test_sieve.dir
+/Users/allenwang/Exercism/cpp/sieve/build/CMakeFiles/sieve.dir

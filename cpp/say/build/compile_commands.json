@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/say/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/say.dir/say_test.cpp.o -c /Users/allenwang/Exercism/cpp/say/say_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/say/say_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/say/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/say.dir/say.cpp.o -c /Users/allenwang/Exercism/cpp/say/say.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/say/say.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/say/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++14 -o CMakeFiles/say.dir/test/tests-main.cpp.o -c /Users/allenwang/Exercism/cpp/say/test/tests-main.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/say/test/tests-main.cpp"
+}
+]

@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rna-transcription",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rna-transcription::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rna-transcription-Debug-7bf63ebc786bd85fac70.json",
+					"name" : "rna-transcription",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_rna-transcription::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_rna-transcription-Debug-87532034c15f634d9800.json",
+					"name" : "test_rna-transcription",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/allenwang/Exercism/cpp/rna-transcription/build",
+		"source" : "/Users/allenwang/Exercism/cpp/rna-transcription"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/grade-school/build",
+  "command": "/usr/bin/clang++  -DBOOST_ALL_NO_LIB -DHAS_BOOST -isystem /usr/local/include  -std=c++17 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/grade-school.dir/grade_school_test.cpp.o -c /Users/allenwang/Exercism/cpp/grade-school/grade_school_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/grade-school/grade_school_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/grade-school/build",
+  "command": "/usr/bin/clang++  -DBOOST_ALL_NO_LIB -DHAS_BOOST -isystem /usr/local/include  -std=c++17 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/grade-school.dir/grade_school.cpp.o -c /Users/allenwang/Exercism/cpp/grade-school/grade_school.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/grade-school/grade_school.cpp"
+}
+]

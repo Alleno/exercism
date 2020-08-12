@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/allenwang/Exercism/cpp/difference-of-squares/build",
+  "command": "/usr/bin/clang++  -DBOOST_ALL_NO_LIB -isystem /usr/local/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/difference-of-squares.dir/difference_of_squares_test.cpp.o -c /Users/allenwang/Exercism/cpp/difference-of-squares/difference_of_squares_test.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/difference-of-squares/difference_of_squares_test.cpp"
+},
+
+{
+  "directory": "/Users/allenwang/Exercism/cpp/difference-of-squares/build",
+  "command": "/usr/bin/clang++  -DBOOST_ALL_NO_LIB -isystem /usr/local/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -Wall -Wextra -Wpedantic -Werror -std=c++11 -o CMakeFiles/difference-of-squares.dir/difference_of_squares.cpp.o -c /Users/allenwang/Exercism/cpp/difference-of-squares/difference_of_squares.cpp",
+  "file": "/Users/allenwang/Exercism/cpp/difference-of-squares/difference_of_squares.cpp"
+}
+]

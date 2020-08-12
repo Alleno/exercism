@@ -1,0 +1,13 @@
+# ninja log v5
+0	770	1596470457910652850	CMakeFiles/sieve.dir/sieve_test.cpp.o	5e020cd88fa2956
+1	6222	1596470463343694577	CMakeFiles/sieve.dir/test/tests-main.cpp.o	6e22b5190b94b098
+3	308	1596470494418377714	CMakeFiles/sieve.dir/sieve.cpp.o	4fc32ec59cb534cc
+308	466	1596470494577725024	sieve	4d5a16d548d7a775
+466	794	0	CMakeFiles/test_sieve	92aba42f10f76068
+3	315	1596471197873946564	CMakeFiles/sieve.dir/sieve.cpp.o	4fc32ec59cb534cc
+3	654	1596471198213404778	CMakeFiles/sieve.dir/sieve_test.cpp.o	5e020cd88fa2956
+654	805	1596471198356891058	sieve	4d5a16d548d7a775
+3	327	1596471442543639134	CMakeFiles/sieve.dir/sieve.cpp.o	4fc32ec59cb534cc
+327	492	1596471442698918608	sieve	4d5a16d548d7a775
+492	809	0	CMakeFiles/test_sieve	92aba42f10f76068
+3	21	0	CMakeFiles/test_sieve	92aba42f10f76068

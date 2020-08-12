@@ -1,0 +1,4 @@
+/Users/allenwang/Exercism/cpp/say/build/CMakeFiles/rebuild_cache.dir
+/Users/allenwang/Exercism/cpp/say/build/CMakeFiles/edit_cache.dir
+/Users/allenwang/Exercism/cpp/say/build/CMakeFiles/test_say.dir
+/Users/allenwang/Exercism/cpp/say/build/CMakeFiles/say.dir

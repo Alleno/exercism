@@ -1,0 +1,9 @@
+# ninja log v5
+1	38	1594311609647571489	CMakeFiles/two-fer.dir/two_fer.cpp.o	9b7ed56526572caa
+1	7008	1594311616594477113	CMakeFiles/two-fer.dir/test/tests-main.cpp.o	e04b7558cab768e5
+3	288	1594311713318163906	CMakeFiles/two-fer.dir/two_fer.cpp.o	9b7ed56526572caa
+2	578	1594311713607537635	CMakeFiles/two-fer.dir/two_fer_test.cpp.o	c34f3892b558c02c
+578	726	1594311713758290070	two-fer	b454f66438f8dcdc
+9	787	1594336421242654366	CMakeFiles/two-fer.dir/two_fer_test.cpp.o	c34f3892b558c02c
+3	293	1594336436946079825	CMakeFiles/two-fer.dir/two_fer.cpp.o	9b7ed56526572caa
+293	503	1594336437147461127	two-fer	b454f66438f8dcdc

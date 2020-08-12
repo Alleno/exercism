@@ -1,0 +1,8 @@
+# ninja log v5
+0	42	1596387111056529187	CMakeFiles/difference-of-squares.dir/difference_of_squares.cpp.o	c5a4d8e11fcea38e
+1	38	1596387133553460381	CMakeFiles/difference-of-squares.dir/difference_of_squares.cpp.o	c5a4d8e11fcea38e
+0	1097	1596387134608333438	CMakeFiles/difference-of-squares.dir/difference_of_squares_test.cpp.o	8eef77280bd39a5e
+1099	1221	1596387134737140266	difference-of-squares	825085a88445c88e
+6	48	1596387166819367917	CMakeFiles/difference-of-squares.dir/difference_of_squares.cpp.o	c5a4d8e11fcea38e
+48	137	1596387166905432267	difference-of-squares	825085a88445c88e
+137	265	0	CMakeFiles/test_difference-of-squares	1cb0a8283e45791b
